@@ -1,6 +1,6 @@
-# ToneLens
+# IchoMap
 
-ToneLens is a sound-first effects learning tool presented as a self-contained static website.
+IchoMap is a sound-first effects learning tool presented as a self-contained static website.
 
 ## Local preview
 
